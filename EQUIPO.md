@@ -9,4 +9,4 @@
 | Nombre completo | Correo institucional | Identidades git |
 |-----------------|----------------------|-----------------|
 | Juan David Roa Castañeda | juanroac@usantotomas.edu.co | Juan David Roa Castañeda <juandavidroa0@gmail.com> |
-| Laura Camila Rodríguez Granados | lauracrodriguezg@usantotomas.edu.co | Laura Camila Rodríguez Granados <laurarodg97@gmail.com> |
+| Laura Camila Rodríguez Granados | lauracrodriguezg@usantotomas.edu.co | Laura Camila Rodríguez Granados <laurarodg97@gmail.com>; laurarodg97-rgb <laurarodg97@gmail.com> |

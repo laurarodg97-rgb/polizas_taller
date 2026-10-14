@@ -1,6 +1,6 @@
 # Hallazgos — Parte A
 
-**Grupo:** <1> · **Integrantes:** Juan David Roa Castañeda y Laura Camila Rodríguez
+**Grupo:** 4 · **Integrantes:** Juan David Roa Castañeda y Laura Camila Rodríguez Granados
 
 > Cada hallazgo se reprodujo sobre el commit semilla `5a5cc5b` (la etiqueta `v0-semilla` del repositorio original), con el servicio recién iniciado (`uvicorn main:app --port 8000`) y la `app.db` original. Las salidas corresponden a los resultados literales obtenidos en la terminal.
 >
