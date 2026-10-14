@@ -75,4 +75,8 @@ En este endpoint, obtener los datos relacionados mediante `joinedload` sí resul
 
 Aunque `joinedload` también realiza una sola consulta, su tiempo fue de aproximadamente 166 ms, frente a los 7,6 ms de la estrategia agregada. Esto se debe a que `joinedload` —y también `selectinload`, con 5 consultas— materializa 6000 objetos únicamente para calcular `len()` y `sum()` en Python.
 
+<<<<<<< HEAD
 El `LEFT OUTER JOIN` y `coalesce` permiten que las pólizas sin siniestros también aparezcan en el resultado, con un total de 0 en lugar de desaparecer. Este comportamiento se verifica mediante una prueba específica.
+=======
+El `LEFT OUTER JOIN` y `coalesce` permiten que las pólizas sin siniestros también aparezcan en el resultado, con un total de 0 en lugar de desaparecer. Este comportamiento se verifica mediante una prueba específica.
+>>>>>>> origin/main
